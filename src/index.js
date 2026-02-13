@@ -1,0 +1,1 @@
+export default heroes => [...heroes].sort((a, b) => b.health - a.health);

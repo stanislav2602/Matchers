@@ -1,0 +1,29 @@
+{
+  "name": "matchers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislav2602/Matchers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanislav2602/Matchers/issues"
+  },
+  "homepage": "https://github.com/stanislav2602/Matchers#readme",
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.0",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "core-js": "^3.48.0"
+  }
+}
